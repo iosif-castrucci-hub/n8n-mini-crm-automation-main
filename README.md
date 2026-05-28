@@ -476,10 +476,10 @@ Current version includes:
 
 ## Author
 
-Built by **CRM Solutions**
+Built by **Iosif Castrucci**
 
-GitHub: `crm-solutions-lab`
-Email: `crmsolution.contact@gmail.com`
+GitHub: `iosif-castrucci-hub`
+Email: `contact.iosifcastrucci@gmail.com`
 
 ---
 
