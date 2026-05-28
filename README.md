@@ -471,9 +471,6 @@ Current version includes:
 
 ---
 
-## Screenshots
-
-
 ## Author
 
 Built by **Iosif Castrucci**
