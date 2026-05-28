@@ -1,6 +1,6 @@
 # Mini CRM Automation — Lead Capture & Follow-up Reminder
 
-![n8n Workflow Overview](screenshot/screenshot_Demo.png)
+![n8n Workflow Overview](screenshot_Demo.png)
 
 A no-code automation project built with **n8n**, **Google Sheets**, **Telegram**, and **Gmail**.
 
